@@ -108,12 +108,5 @@ make clean
 
 ---
 
-## Team
-
-* **Leen Alqazaqi — 1220380**
-* **Leen Aldeek — 1212391**
-* **Rand Awadallah — 1211963**
-* **Areej Younis — 1221419**
-
 
 
